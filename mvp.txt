@@ -1,0 +1,26 @@
+Band Name Generator - BNG app project
+
+first of all learn how test unit works before trying apply the mvps
+
+mvp1
+* create a testing unit for a unique band name generator. 
+where tests to given words in a function and returns half
+o the first word with the other half o the second word
+together in a string returning the unique word generated
+and the second word added in a string that says 
+fistword + secondword + "and the" + secondword + "crew".
+
+mvp2
+* try to create a function that takes two words in and brake
+those 2 words in the middle and put them together.
+try returning the  unique word with the sentence 
+"uniqueWord" and the word2 "crew".
+
+mvp3
+create a quastion and explain how people have to try create 
+a function that takes to words, cut these words in middle
+add them togther fransforming in a unique word and generating
+unique band name.
+
+mvp4
+*submit whatever you have it done! 
